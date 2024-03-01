@@ -1,4 +1,4 @@
-import UIKit
+heimport UIKit
 
 class ViewController: UIViewController {
 
@@ -49,4 +49,5 @@ class ViewController: UIViewController {
 // Define structs or classes to retrieve BatteryHealth, ProcessorInfo, GPUInfo, etc.
 // I work on Windows 10, but SWIFT is more familiar to the environment of Xcode(Xcode works mostly in MacOS which is of Apple).
 // I use Windows from the starting of my career since 2016 - Present.
-// I assure you that I shall leave no stone unturned in fulfilling my duties as an ios app developer.
+// Either you provide me the laptop to work on, or else how can I work?
+// I could also hide this fact from your sight, but this would act as cheating in my point of view.
